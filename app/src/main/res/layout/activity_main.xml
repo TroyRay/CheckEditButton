@@ -12,7 +12,8 @@
         android:id="@+id/tv_title"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="检测TextView和EditText是否都填充了内容"
+        android:textSize="14sp"/>
     <android.support.v7.widget.AppCompatEditText
         android:id="@+id/et_content_one"
         android:layout_width="match_parent"
