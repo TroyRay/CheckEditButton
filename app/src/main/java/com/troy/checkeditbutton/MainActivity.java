@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         cbtConfirm.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(MainActivity.this,"所以输入框都输入了内容",Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this,"按钮可以点击啦！",Toast.LENGTH_SHORT).show();
             }
         });
 
