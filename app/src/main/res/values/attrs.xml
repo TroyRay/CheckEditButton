@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CheckEditButton">
+        <attr name="clickable_bg" format="reference"/>
+        <attr name="unClickable_bg" format="reference"/>
+        <attr name="clickable_text_color" format="color"/>
+        <attr name="unClickable_text_color" format="color"/>
+    </declare-styleable>
+</resources>
