@@ -4,5 +4,5 @@
 就不需要一个一个检测EditText有没有输入内容啦。
 
 # 效果图
-![normal1](https://github.com/TroyRay/CheckEditButton/blob/master/pics/jietu1.jpg)
-![normal2](https://github.com/TroyRay/CheckEditButton/blob/master/pics/jietu2.jpg)
+![normal1](https://github.com/TroyRay/CheckEditButton/blob/master/pics/jietu1.png)
+![normal2](https://github.com/TroyRay/CheckEditButton/blob/master/pics/jietu2.png)
